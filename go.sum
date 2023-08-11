@@ -1,2 +1,4 @@
-github.com/jathrei/puppy v0.0.0-20230811193530-5bdc9482eccd h1:YYcjrdI4Wo0x4vimmtS5MpbdAObpPPhcUybOgquS72k=
-github.com/jathrei/puppy v0.0.0-20230811193530-5bdc9482eccd/go.mod h1:Y4P/vHxbhrpB3hz4pTZv9XJcd67qtE9LfnlhhTRBDco=
+github.com/jathrei/dog v0.0.0-20230811201842-e824e878828b h1:/+qOgrQgoVnXyiQiciCQNH12RQxIcnOWKcPuXpRlzJg=
+github.com/jathrei/dog v0.0.0-20230811201842-e824e878828b/go.mod h1:2fpd6P4VrlcrZy8Hbso3aplBJxTS/CGnEelD2WWJ264=
+github.com/jathrei/puppy v0.0.0-20230811203055-752b49d2eb1f h1:vHXsqav8s48wj/8gKZ5dFTpBpfSa1NJMcsW5NHLomQk=
+github.com/jathrei/puppy v0.0.0-20230811203055-752b49d2eb1f/go.mod h1:USAYUMdwggdkjD3U0NaSnAP75XsQlUUcPKlD4DD/0eM=
