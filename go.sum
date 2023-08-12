@@ -1,3 +1,9 @@
+github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9 h1:WtQjqEAV0EwbFVvp4ETs4XvRmdE0+r578aLTAnay80Y=
+github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9/go.mod h1:bSJZIYrINAWfFsUPONiX6V8GGsCFquPtn5yE6DFvIkE=
+github.com/GoesToEleven/puppy v1.2.0 h1:oH8CmnGauWjv0RmtYu2saAwRaB6MOfx6L+SPZnWmBfk=
+github.com/GoesToEleven/puppy v1.2.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
+github.com/GoesToEleven/puppy v1.3.0 h1:6kvL9k6x8STNArAn3VVdQAye+5AOM3SbxV0uPdq5xn0=
+github.com/GoesToEleven/puppy v1.3.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
 github.com/jathrei/dog v0.0.0-20230811201842-e824e878828b h1:/+qOgrQgoVnXyiQiciCQNH12RQxIcnOWKcPuXpRlzJg=
 github.com/jathrei/dog v0.0.0-20230811201842-e824e878828b/go.mod h1:2fpd6P4VrlcrZy8Hbso3aplBJxTS/CGnEelD2WWJ264=
 github.com/jathrei/puppy v0.0.0-20230811203055-752b49d2eb1f h1:vHXsqav8s48wj/8gKZ5dFTpBpfSa1NJMcsW5NHLomQk=
