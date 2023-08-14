@@ -135,6 +135,40 @@ func main() {
 		fmt.Println("the value of k is: ", k)
 		fmt.Println("v value is v: ", v)
 	}
+
+	//map data structure - use some key to look up some value
+	m := map[string]int{
+		"James":      42,
+		"Moneypenny": 32,
+	}
+	for i, v := range m {
+		fmt.Printf("%v and %v \n", i, v)
+		fmt.Println(i)
+	}
+
+	//in map, look up James
+	age := m["James"]
+	//check it
+	fmt.Println("the age of bond: ", age)
+	if val, ok := m["James"]; ok {
+		fmt.Println("There is no Q entry: ", val)
+		fmt.Println(ok)
+	}
+
+	age1 := m["Q"]
+	fmt.Println("the age of Q: ", age1)
+	//using comma, ok to check
+	//so v is the value, ok is boolean assigned. if ok exists, then it will run
+	//this is a form of checking the existance of a map
+	if val, ok := m["Q"]; !ok {
+		fmt.Println("There is no Q entry: ", val)
+	}
+
+	for i := 0; i < 100; i++ {
+		if x := rand.Intn(5); x == 3 {
+			fmt.Printf("%v is x and the iterative value is %v \n\n", x, i)
+		}
+	}
 }
 
 func init() {
