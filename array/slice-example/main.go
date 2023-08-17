@@ -92,4 +92,25 @@ func main() {
 	as = append(as, 1, 2, 3, 4)
 	fmt.Println(as)
 
+	jb := []string{"James", "Bond", "Martini", "Chocolate"}
+	jm := []string{"Jenny", "Moneypenny", "Guiness", "Wolverine"}
+	fmt.Println(jb)
+	fmt.Println(jm)
+
+	xxs := [][]string{jb, jm}
+	fmt.Println(xxs)
+
+	//slice internals
+	at := []int{0, 1, 2, 3, 4, 5}
+	//b := at
+	//way around this
+	b := make([]int, 6)
+	copy(b, at)
+	fmt.Println("a ", at)
+	fmt.Println("b ", b)
+	fmt.Println()
+	at[0] = 7
+	fmt.Println("a ", at)
+	fmt.Println("b ", b)
+
 }
