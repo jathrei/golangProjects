@@ -34,4 +34,13 @@ func main() {
 	for i := 0; i < len(states); i++ {
 		fmt.Printf("index: %v   state: %v \n", i+1, states[i])
 	}
+	//48
+	bond := []string{"James", "Bond", "Shaken, not stirred"}
+	miss := []string{"Miss", "Moneypenny", "Im 008"}
+	bm := [][]string{bond, miss}
+	for i := 0; i < len(bm); i++ {
+		for j := 0; j < len(bm[i]); j++ {
+			fmt.Println(bm[i][j])
+		}
+	}
 }
